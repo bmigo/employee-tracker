@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Module challenge for employee tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmigo/employee-tracker.git"
+  },
+  "author": "bmigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmigo/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/bmigo/employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^9.1.4",
+    "mysql2": "^3.1.0"
+  }
+}
